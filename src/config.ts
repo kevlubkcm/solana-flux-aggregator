@@ -1,5 +1,3 @@
-import toml from "@ltd/j-toml"
-
 import fs from "fs"
 import { Oracle } from "./schema"
 

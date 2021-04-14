@@ -34,11 +34,6 @@
     enabled "2.0.x"
     kuler "^2.0.0"
 
-"@ltd/j-toml@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@ltd/j-toml/-/j-toml-1.6.0.tgz#11301811b7acc80299bfd312a0234bd5cc0edc3f"
-  integrity sha512-Jyyx+mVYy8sIf2Tas5R5qchHerJZrvWnnNg8F9dnE/gpz15RCQLEmUXZhWsM2CVHxjZhR9aE6Miqv/hfnGZAIg==
-
 "@solana/web3.js@^0.90.5":
   version "0.90.5"
   resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-0.90.5.tgz#5be7d78a19f0b5e01bf82c52e3cbf0bb72a38cfd"
